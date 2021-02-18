@@ -49,9 +49,9 @@
  |bbc|ECE|Erv|  
  
  
- ``print("code")``
  
-``` # Python Program to calculate the square root
+``` Python
+# Python Program to calculate the square root
 
 # Note: change this value for a different result
 num = 8 
